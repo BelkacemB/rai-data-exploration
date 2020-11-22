@@ -1,71 +1,91 @@
-id,name,main_artist,duration_ms_x,explicit,danceability,loudness,energy,instrumentalness,liveness,valence,speechiness,tempo,popularity
-1Ld7ou1JXz77rg70AG7usC,El Walida,Kader Japonais,252000,False,0.611,-8.611,0.743,0.0,0.111,0.541,0.0833,79.996,56
-1mhKtcpIVEwvE7qs32HcwI,Manich Kima Bakri,Cheb Bello,345652,False,0.705,-4.308,0.894,4.5e-06,0.0725,0.89,0.095,96.066,47
-1Z3UznHCGkclMLMOBRxeHN,3adyani Bel Gros - Remix Master T,Cheb Bello,226811,False,0.672,-6.673,0.787,0.543,0.206,0.594,0.0452,91.992,47
-4KuO9X4amlOVQwsU2DRONy,Di Ayza Kalem,Cheb Bilal,351173,False,0.452,-7.722,0.881,0.00523,0.0453,0.97,0.0895,110.371,45
-4dWR4PFw9WbkUrTmLmdeDB,Bienvenue chez les bylkas,Cheb Bilal,242533,False,0.627,-4.176,0.869,0.0,0.661,0.885,0.227,98.662,45
-25MuzemzYte78t3ZIzM2jk,Malou Malou,Kader Japonais,164192,False,0.655,-6.014,0.727,2.13e-05,0.137,0.372,0.0666,100.21,45
-7sf1LeMpsZ5YLcOPaDk8df,Frontières,Cheb Bello,204280,False,0.782,-3.846,0.857,0.0,0.357,0.523,0.0422,107.998,44
-6MgCPtlAvhgdu7nHHdHwAT,Vida Loca,Cheb Bilal,250212,False,0.616,-6.519,0.807,0.0,0.366,0.882,0.0371,94.018,44
-469RutojU2gIHm1bZvPKdp,Nti Sbabi,Kader Japonais,254491,False,0.469,-5.047,0.886,0.0,0.106,0.628,0.171,176.154,44
-6qlZjH5bLf6w6XvfpYxsPx,Mamamiya,Kader Japonais,229813,False,0.569,-5.111,0.992,0.0537,0.395,0.558,0.0771,144.924,44
-7kIE6D8Mo1ai8nz7zdk8u8,Wayli Wayli,Cheb Bilal,320533,False,0.547,-9.015,0.791,0.00032,0.063,0.557,0.0483,105.388,43
-0GDjF1aq0W3hZN9whZtcmw,Al Hachwa Hachwa,Cheb Bello,315715,False,0.638,-5.637,0.883,9.67e-06,0.0814,0.965,0.0423,89.898,43
-5vEgNT2ZXZrk9ytIguXx2y,Good Bye,Cheb Bello,374909,False,0.65,-4.223,0.91,0.0,0.107,0.967,0.0451,93.961,42
-0e2VRZjl7q0upclM58AQhR,Hatmatek Eddenia,Kader Japonais,327724,False,0.596,-3.706,0.916,0.0,0.323,0.767,0.256,144.9,41
-1QcJ7OsYeuhFsCzKyy1j4L,Twahachtek Omri,Kader Japonais,278100,False,0.577,-4.515,0.823,0.0,0.0919,0.462,0.0694,152.068,41
-5PEdfV2WSVKIywE2dTgPQF,Bagi Nwali Milliardaire,Cheb Bello,264554,False,0.509,-4.966,0.944,3.31e-06,0.439,0.867,0.0602,107.855,41
-5YN2ZxdXmXdHjAe7SCLldm,Chriki,Cheb Bilal,184106,False,0.82,-5.932,0.878,1.49e-06,0.324,0.894,0.113,139.96,40
-53jIJkxsMot3n7Reolf6QO,Maghboun Wahdi,Cheb Djalil,207585,False,0.653,-4.696,0.823,0.0,0.195,0.76,0.0544,95.973,40
-26kP9G25zYxuM0KrvzcszV,Mamnou3,Cheb Bello,347924,False,0.584,-4.615,0.956,1.93e-06,0.357,0.817,0.107,91.981,39
-3y3zXTlPWBQBX5XlFX4gDu,Kissat Gharam,Bilal Sghir,291474,False,0.616,-13.402,0.446,0.0,0.097,0.664,0.0741,168.105,39
-5bdHXG0gLmikAaITS5d2zl,Romantique,Cheb Bilal,285753,False,0.393,-4.533,0.756,2.66e-06,0.0978,0.831,0.0818,83.907,38
-79VfwCmLalH8JqvhhaYgDz,Nti Machi Histoire,Kader Japonais,241304,False,0.683,-6.789,0.877,0.000227,0.159,0.546,0.0892,92.031,38
-53srYeUEKA5rplVgSWhnRP,Ma Tzawjet Ma Walet,Cheb Djalil,432927,False,0.519,-5.564,0.836,0.0,0.0699,0.772,0.0652,91.956,38
-0x20LfiY19QyziXACgFgKD,Jitini Retard,Cheb Djalil,264934,False,0.461,-5.303,0.838,0.0,0.147,0.782,0.115,184.037,38
-23xPuVoZyyMIxCoRZIQuSr,Même pas appel,Cheb Bilal,239368,False,0.649,-4.52,0.838,0.0,0.2,0.658,0.0386,142.477,38
-1auBYTYu9uzjAKhNl6fpif,Yeppa Mama,Cheb Bilal,234946,False,0.798,-3.931,0.671,8.26e-05,0.0807,0.896,0.0827,108.015,37
-6Mgyd5vTf0bLdiRKee4R1B,Darja darja,Cheb Bilal,350449,False,0.779,-18.959,0.303,0.00087,0.0649,0.966,0.0653,154.088,37
-6MpEiDHUqReT8ypjWPTIjW,Fi Aachkek Cheft El Wile,Kader Japonais,307333,False,0.597,-5.682,0.671,0.0,0.121,0.341,0.0436,150.08,37
-1qgmZrEjWujlHz7EKrM3U7,Ma3andnach Ou Makhasnash,Cheb Bello,297765,False,0.616,-4.961,0.923,0.00014,0.0854,0.95,0.0378,93.925,37
-5uAxG5KJnjTDhCc2npnRbd,Lettre à mon fils,Cheba Dalila,185746,False,0.811,-3.524,0.872,0.000583,0.25,0.692,0.129,102.1,36
-7m4QCz115EDdiOPbzGroIb,Nti Galb,Bilal Sghir,297693,False,0.678,-6.36,0.812,0.0,0.387,0.966,0.101,86.994,36
-1PMwegRivxvRWxcDLkWZfa,Saragossa - Live,Cheb Bilal,283640,False,0.715,-7.277,0.739,0.0,0.867,0.619,0.0412,96.955,36
-2QoGEqNS7o0J5z9O0urpNX,Matahagrouche Lewliya,Bilal Sghir,389150,False,0.675,-3.89,0.942,0.0,0.289,0.86,0.0632,89.94,35
-1WGClNpLVqtrYEhsEFXBpV,Mamamia,Kader Japonais,225720,False,0.559,-3.721,0.993,0.0345,0.376,0.508,0.112,144.955,35
-7B2IWgVp0wa1iK1pVvaRX9,Nesmeh Wma Nensach,Kader Japonais,288026,False,0.53,-8.052,0.584,0.0,0.237,0.681,0.0525,87.86,34
-1o6UhzVY4AxOAVK1JD3i41,Adyani calma,Warda,321855,False,0.389,-5.667,0.712,0.0,0.253,0.545,0.121,89.786,34
-39Qkp09XwdGxjKykyobhRa,C'est moi qui choisis,Warda,438693,False,0.716,-8.041,0.877,5.32e-05,0.148,0.964,0.0409,91.994,34
-4y8951eoWDwXfqHpNwm0nn,Kheliha Cheba,Cheb Bello,290175,False,0.707,-7.334,0.732,0.0,0.131,0.765,0.0605,96.023,34
-3WyN9BhcoI6eg6Uh8MBaxK,Rahoum Y'goulou,Bilal Sghir,382757,False,0.597,-7.058,0.804,0.0,0.114,0.715,0.095,86.093,33
-1bwYhB6sFe8rqstAVq0Okj,Frota & Coco,Cheb Djalil,195109,False,0.779,-8.298,0.566,0.0,0.0613,0.755,0.12,100.006,32
-5nWCdJ8yxaMvozXCrN4Ovs,Li Yaaref Dorri,Cheb Djalil,247925,False,0.664,-4.696,0.878,0.0,0.326,0.94,0.0359,94.022,32
-0gH7xXqDgLxY71oXhYJ2hH,Min Nfi9lek Di9lek,Cheb Djalil,222331,False,0.636,-7.791,0.725,2.5e-05,0.141,0.718,0.0343,92.017,32
-20b8ZKzhdhyocwkjCbYo4S,Takoul Saroukh,Cheb Djalil,312167,False,0.698,-8.491,0.769,2.07e-06,0.19,0.928,0.0429,93.968,31
-0whzgqpiCbi1IM4l7Gzpof,Je te quitte,Cheba Dalila,348891,False,0.468,-4.417,0.815,0.0,0.127,0.432,0.0948,171.953,31
-2PugzXCk5jKRsFp0CB7Ln7,Jibouli Bogossi,Warda,254741,False,0.732,-4.697,0.885,0.0,0.173,0.854,0.0489,102.031,31
-1898z8vvhqc1XNoochfCoa,Charlomanté mjam3in3liya,Warda,320087,False,0.624,-6.823,0.744,1.16e-06,0.359,0.901,0.0623,93.006,29
-5DHTBBlS0gVdB3ulbbKMRw,Spera Spera,Bilal Sghir,331986,False,0.638,-3.813,0.906,0.0,0.207,0.963,0.0467,90.085,28
-5ANHgnZUmsHE5rGMUGUWzp,Ki Nfi9lek Di9lek - Remix,Cheb Djalil,213919,False,0.678,-12.204,0.661,5.51e-06,0.117,0.831,0.0531,92.003,28
-20xxsRXogL4MQSZqm7NZDh,علابالي قلبك حنين,Cheb Djalil,364477,False,0.525,-5.921,0.828,0.0,0.123,0.885,0.0962,179.635,28
-5NbsOXZIXALtv4PIfeT8eR,Habibi,Bilal Sghir,260911,False,0.502,-7.1,0.87,0.0,0.311,0.863,0.0912,184.257,27
-5s5IhnqIO0kYpySTJfKkV9,Ana Dertlah Ramasser,Warda,270008,False,0.609,-6.529,0.838,0.00058,0.398,0.58,0.0601,98.002,26
-7v2iAddxQPwHspcgJbrE41,Yghirou Yghirou,Cheb Bello,272207,False,0.756,-5.456,0.846,0.0,0.172,0.901,0.0444,91.956,26
-0sCIDG4PYboWVbCAxcTcje,Ça fait plaisir - Live,Bilal Sghir,363453,False,0.614,-3.556,0.917,1.42e-06,0.106,0.912,0.043,88.026,26
-4e1ZD73gQp4h2FQOLEI2e4,Sentiment Bizarre,Bilal Sghir,265002,False,0.597,-3.972,0.897,0.0,0.276,0.892,0.121,167.928,25
-3WN2ndKoYHd4m9KnZpHZ2N,Andi Ma Khir Menak,Warda,564976,False,0.672,-5.989,0.915,6.22e-05,0.0901,0.811,0.0886,96.006,23
-1LlQmWiqXQqBsRhnnxRtV7,Reservite Ana l'avion,Cheba Dalila,243840,False,0.622,-4.632,0.893,0.0,0.367,0.87,0.0749,97.376,23
-14QPtkWgsjBqT73Jh6Tqpn,Baslahi Drabtini,Cheb Djalil,274048,False,0.349,-6.174,0.891,1.34e-05,0.229,0.819,0.0947,92.75,23
-7vRsAAgM5QdKeWs7aWZQvO,Manich Délicat,Bilal Sghir,256744,False,0.515,-7.075,0.887,0.0,0.0906,0.859,0.0425,172.069,22
-4VK2ds3l1POC0M1wFEiomn,Ana Acheki Liya Wahdi,Warda,398489,False,0.696,-4.807,0.862,0.0,0.0537,0.577,0.197,94.032,22
-0KoXiJCNMRUR5md3EJnSs4,Katlouna Bzoom,Warda,335226,False,0.695,0.255,0.964,0.0,0.0536,0.935,0.0486,93.928,22
-789tcPy9WZx47n5Y1j5ldV,Choufou Rwahkoum Ki Dayrin,Cheba Dalila,366708,False,0.573,-2.137,0.86,0.0,0.0583,0.632,0.192,93.007,22
-6UBcbampZS3KWR8CBxWkxU,Tahseb Ghi Howa Bnadem,Cheba Dalila,349457,False,0.659,-2.949,0.868,0.0,0.194,0.695,0.119,88.062,21
-3mAmbinHdIGUT6LFr8uC9p,Meriouli,Cheba Dalila,161333,False,0.599,-5.949,0.898,0.0,0.272,0.699,0.142,97.14,19
-5OzBv2BtPChE64ZyxrnvFW,عشقك يقسف,Bilal Sghir,363206,False,0.465,-7.413,0.765,0.0,0.414,0.796,0.214,74.238,18
-7djU7GwzflNZTvWESmTxyJ,Galbi ytgata3,Warda,312085,False,0.582,-5.536,0.838,2.16e-06,0.069,0.81,0.0695,188.133,18
-7x560Xq3o80uxSeJKbsAWe,Radouli omri,Warda,222563,False,0.367,-5.695,0.797,0.0,0.0811,0.474,0.413,92.005,18
-4HvvbAB9gJ4DbvhAaTkoZi,Edenia Tkarik,Cheba Dalila,561894,False,0.678,-5.178,0.816,0.0,0.335,0.694,0.0531,89.984,18
-3AV1b8QvgxALSE0TTlshdo,Choufou Rwahkom Ki Dayrin Medahatte,Cheba Dalila,358608,False,0.681,-5.629,0.807,2.49e-06,0.0785,0.859,0.0615,93.956,16
-1MU9cGJPkf8Z3A42HHKfR2,Yi Yi Yi,Cheba Dalila,451604,False,0.469,-4.617,0.837,0.0,0.362,0.762,0.0498,96.206,15
-3KYoTAbeSphbH6Z3Jja2Wd,Malgré Niya Zina,Cheba Dalila,267656,False,0.587,-4.753,0.769,0.0,0.0793,0.567,0.213,91.925,15
+id,name,main_artist,duration_ms_x,danceability,loudness,energy,instrumentalness,liveness,valence,speechiness,tempo,popularity
+1Ld7ou1JXz77rg70AG7usC,El Walida,Kader Japonais,252000,0.611,-8.611,0.743,0.0,0.111,0.541,0.0833,79.996,56
+1Z3UznHCGkclMLMOBRxeHN,3adyani Bel Gros - Remix Master T,Cheb Bello,226811,0.672,-6.673,0.787,0.543,0.206,0.594,0.0452,91.992,47
+1mhKtcpIVEwvE7qs32HcwI,Manich Kima Bakri,Cheb Bello,345652,0.705,-4.308,0.894,4.5e-06,0.0725,0.89,0.095,96.066,47
+25MuzemzYte78t3ZIzM2jk,Malou Malou,Kader Japonais,164192,0.655,-6.014,0.727,2.13e-05,0.137,0.372,0.0666,100.21,45
+4hQgTdJF1Z1PdDrhjYBiUC,Choufi Bentek Ma Daret Fiya,Cheb Houssem,325896,0.638,-6.552,0.856,0.0,0.267,0.757,0.211,141.88,45
+4dWR4PFw9WbkUrTmLmdeDB,Bienvenue chez les bylkas,Cheb Bilal,242533,0.627,-4.176,0.869,0.0,0.661,0.885,0.227,98.662,45
+4KuO9X4amlOVQwsU2DRONy,Di Ayza Kalem,Cheb Bilal,351173,0.452,-7.722,0.881,0.00523,0.0453,0.97,0.0895,110.371,45
+6qlZjH5bLf6w6XvfpYxsPx,Mamamiya,Kader Japonais,229813,0.569,-5.111,0.992,0.0537,0.395,0.558,0.0771,144.924,44
+7sf1LeMpsZ5YLcOPaDk8df,Frontières,Cheb Bello,204280,0.782,-3.846,0.857,0.0,0.357,0.523,0.0422,107.998,44
+6MgCPtlAvhgdu7nHHdHwAT,Vida Loca,Cheb Bilal,250212,0.616,-6.519,0.807,0.0,0.366,0.882,0.0371,94.018,44
+469RutojU2gIHm1bZvPKdp,Nti Sbabi,Kader Japonais,254491,0.469,-5.047,0.886,0.0,0.106,0.628,0.171,176.154,44
+0GDjF1aq0W3hZN9whZtcmw,Al Hachwa Hachwa,Cheb Bello,315715,0.638,-5.637,0.883,9.67e-06,0.0814,0.965,0.0423,89.898,43
+1ANh0Pyrr6axtL5PhoRqPh,Khatira Khatira,Cheb Houssem,582293,0.554,-7.417,0.826,0.00271,0.12,0.873,0.0442,91.954,43
+7kIE6D8Mo1ai8nz7zdk8u8,Wayli Wayli,Cheb Bilal,320533,0.547,-9.015,0.791,0.00032,0.063,0.557,0.0483,105.388,43
+59IYNS4dGkvGClYstdmPkF,L'italienne,Cheb Houssem,215280,0.776,-6.037,0.767,0.0,0.2,0.466,0.0906,102.029,43
+5vEgNT2ZXZrk9ytIguXx2y,Good Bye,Cheb Bello,374909,0.65,-4.223,0.91,0.0,0.107,0.967,0.0451,93.961,42
+0e2VRZjl7q0upclM58AQhR,Hatmatek Eddenia,Kader Japonais,327724,0.596,-3.706,0.916,0.0,0.323,0.767,0.256,144.9,41
+1QcJ7OsYeuhFsCzKyy1j4L,Twahachtek Omri,Kader Japonais,278100,0.577,-4.515,0.823,0.0,0.0919,0.462,0.0694,152.068,41
+5PEdfV2WSVKIywE2dTgPQF,Bagi Nwali Milliardaire,Cheb Bello,264554,0.509,-4.966,0.944,3.31e-06,0.439,0.867,0.0602,107.855,41
+5YN2ZxdXmXdHjAe7SCLldm,Chriki,Cheb Bilal,184106,0.82,-5.932,0.878,1.49e-06,0.324,0.894,0.113,139.96,40
+53jIJkxsMot3n7Reolf6QO,Maghboun Wahdi,Cheb Djalil,207585,0.653,-4.696,0.823,0.0,0.195,0.76,0.0544,95.973,40
+3y3zXTlPWBQBX5XlFX4gDu,Kissat Gharam,Bilal Sghir,291474,0.616,-13.402,0.446,0.0,0.097,0.664,0.0741,168.105,39
+36NsSbJWnCEVDcedZkP40R,Aishi Ta Vie,Cheb Houssem,221093,0.654,-7.991,0.817,0.0,0.29,0.707,0.0442,90.007,39
+26kP9G25zYxuM0KrvzcszV,Mamnou3,Cheb Bello,347924,0.584,-4.615,0.956,1.93e-06,0.357,0.817,0.107,91.981,39
+5BaSu9ES2R8LIYxAZBTqQA,على رواحنا منكذبوش,Cheb Houssem,260522,0.671,-6.987,0.79,8.82e-06,0.261,0.96,0.0396,172.104,39
+23xPuVoZyyMIxCoRZIQuSr,Même pas appel,Cheb Bilal,239368,0.649,-4.52,0.838,0.0,0.2,0.658,0.0386,142.477,38
+0x20LfiY19QyziXACgFgKD,Jitini Retard,Cheb Djalil,264934,0.461,-5.303,0.838,0.0,0.147,0.782,0.115,184.037,38
+53srYeUEKA5rplVgSWhnRP,Ma Tzawjet Ma Walet,Cheb Djalil,432927,0.519,-5.564,0.836,0.0,0.0699,0.772,0.0652,91.956,38
+5bdHXG0gLmikAaITS5d2zl,Romantique,Cheb Bilal,285753,0.393,-4.533,0.756,2.66e-06,0.0978,0.831,0.0818,83.907,38
+79VfwCmLalH8JqvhhaYgDz,Nti Machi Histoire,Kader Japonais,241304,0.683,-6.789,0.877,0.000227,0.159,0.546,0.0892,92.031,38
+1qgmZrEjWujlHz7EKrM3U7,Ma3andnach Ou Makhasnash,Cheb Bello,297765,0.616,-4.961,0.923,0.00014,0.0854,0.95,0.0378,93.925,37
+1auBYTYu9uzjAKhNl6fpif,Yeppa Mama,Cheb Bilal,234946,0.798,-3.931,0.671,8.26e-05,0.0807,0.896,0.0827,108.015,37
+6Mgyd5vTf0bLdiRKee4R1B,Darja darja,Cheb Bilal,350449,0.779,-18.959,0.303,0.00087,0.0649,0.966,0.0653,154.088,37
+7ChapiJN4UABm7B5kHIR25,Merci Beaucoup,Cheb Houssem,211764,0.588,-4.988,0.772,0.0,0.159,0.814,0.0393,169.98,37
+61Oa666U7hHDfbeQoAIaww,Rouhi Raki Msamha,Cheb Houssem,270000,0.584,-7.666,0.783,0.0,0.14,0.699,0.294,179.969,37
+6MpEiDHUqReT8ypjWPTIjW,Fi Aachkek Cheft El Wile,Kader Japonais,307333,0.597,-5.682,0.671,0.0,0.121,0.341,0.0436,150.08,37
+7m4QCz115EDdiOPbzGroIb,Nti Galb,Bilal Sghir,297693,0.678,-6.36,0.812,0.0,0.387,0.966,0.101,86.994,36
+5uAxG5KJnjTDhCc2npnRbd,Lettre à mon fils,Cheba Dalila,185746,0.811,-3.524,0.872,0.000583,0.25,0.692,0.129,102.1,36
+1PMwegRivxvRWxcDLkWZfa,Saragossa - Live,Cheb Bilal,283640,0.715,-7.277,0.739,0.0,0.867,0.619,0.0412,96.955,36
+1WGClNpLVqtrYEhsEFXBpV,Mamamia,Kader Japonais,225720,0.559,-3.721,0.993,0.0345,0.376,0.508,0.112,144.955,35
+3NGv5kAAnLUdcw9BLwUU6O,Sbabi L'amour,Cheb Houssem,301304,0.636,-6.661,0.68,1.02e-06,0.49,0.648,0.0414,91.93,35
+2QoGEqNS7o0J5z9O0urpNX,Matahagrouche Lewliya,Bilal Sghir,389150,0.675,-3.89,0.942,0.0,0.289,0.86,0.0632,89.94,35
+4y8951eoWDwXfqHpNwm0nn,Kheliha Cheba,Cheb Bello,290175,0.707,-7.334,0.732,0.0,0.131,0.765,0.0605,96.023,34
+1o6UhzVY4AxOAVK1JD3i41,Adyani calma,Warda,321855,0.389,-5.667,0.712,0.0,0.253,0.545,0.121,89.786,34
+5ykL3LdQ7Ls8T2Ii2YMmfG,Chira brune,Cheb Mourad,532533,0.652,-9.965,0.657,8.03e-06,0.196,0.886,0.0379,93.999,34
+5kyFwSinb4OuGHGruyRSct,Ana naachak ana ndalak,Cheb Houssem,756323,0.586,-5.625,0.863,2.13e-05,0.33,0.809,0.0796,94.261,34
+11g2mp5dixF4e1BHTJztKt,Toujours Fi La Memoir,Cheb Houssem,443517,0.648,-8.093,0.674,0.0,0.04,0.841,0.0567,173.987,34
+7B2IWgVp0wa1iK1pVvaRX9,Nesmeh Wma Nensach,Kader Japonais,288026,0.53,-8.052,0.584,0.0,0.237,0.681,0.0525,87.86,34
+39Qkp09XwdGxjKykyobhRa,C'est moi qui choisis,Warda,438693,0.716,-8.041,0.877,5.32e-05,0.148,0.964,0.0409,91.994,34
+3WyN9BhcoI6eg6Uh8MBaxK,Rahoum Y'goulou,Bilal Sghir,382757,0.597,-7.058,0.804,0.0,0.114,0.715,0.095,86.093,33
+0gH7xXqDgLxY71oXhYJ2hH,Min Nfi9lek Di9lek,Cheb Djalil,222331,0.636,-7.791,0.725,2.5e-05,0.141,0.718,0.0343,92.017,32
+5nWCdJ8yxaMvozXCrN4Ovs,Li Yaaref Dorri,Cheb Djalil,247925,0.664,-4.696,0.878,0.0,0.326,0.94,0.0359,94.022,32
+1bwYhB6sFe8rqstAVq0Okj,Frota & Coco,Cheb Djalil,195109,0.779,-8.298,0.566,0.0,0.0613,0.755,0.12,100.006,32
+20b8ZKzhdhyocwkjCbYo4S,Takoul Saroukh,Cheb Djalil,312167,0.698,-8.491,0.769,2.07e-06,0.19,0.928,0.0429,93.968,31
+2PugzXCk5jKRsFp0CB7Ln7,Jibouli Bogossi,Warda,254741,0.732,-4.697,0.885,0.0,0.173,0.854,0.0489,102.031,31
+0whzgqpiCbi1IM4l7Gzpof,Je te quitte,Cheba Dalila,348891,0.468,-4.417,0.815,0.0,0.127,0.432,0.0948,171.953,31
+0IiDI1jF6bmERRxsaPNyAe,ها قلبي ها قلبي يناسبها المكان,Cheb Mourad,354226,0.663,-3.409,0.902,0.000323,0.249,0.912,0.0424,93.966,31
+5hBuCctlP5Vs8mv66niEUG,Aiche Icha Wellah Machi Teai,Cheb Mourad,456693,0.61,-4.894,0.859,2.98e-05,0.103,0.878,0.0441,91.989,30
+1898z8vvhqc1XNoochfCoa,Charlomanté mjam3in3liya,Warda,320087,0.624,-6.823,0.744,1.16e-06,0.359,0.901,0.0623,93.006,29
+20xxsRXogL4MQSZqm7NZDh,علابالي قلبك حنين,Cheb Djalil,364477,0.525,-5.921,0.828,0.0,0.123,0.885,0.0962,179.635,28
+5ANHgnZUmsHE5rGMUGUWzp,Ki Nfi9lek Di9lek - Remix,Cheb Djalil,213919,0.678,-12.204,0.661,5.51e-06,0.117,0.831,0.0531,92.003,28
+5DHTBBlS0gVdB3ulbbKMRw,Spera Spera,Bilal Sghir,331986,0.638,-3.813,0.906,0.0,0.207,0.963,0.0467,90.085,28
+5NbsOXZIXALtv4PIfeT8eR,Habibi,Bilal Sghir,260911,0.502,-7.1,0.87,0.0,0.311,0.863,0.0912,184.257,27
+0sCIDG4PYboWVbCAxcTcje,Ça fait plaisir - Live,Bilal Sghir,363453,0.614,-3.556,0.917,1.42e-06,0.106,0.912,0.043,88.026,26
+7v2iAddxQPwHspcgJbrE41,Yghirou Yghirou,Cheb Bello,272207,0.756,-5.456,0.846,0.0,0.172,0.901,0.0444,91.956,26
+5s5IhnqIO0kYpySTJfKkV9,Ana Dertlah Ramasser,Warda,270008,0.609,-6.529,0.838,0.00058,0.398,0.58,0.0601,98.002,26
+4e1ZD73gQp4h2FQOLEI2e4,Sentiment Bizarre,Bilal Sghir,265002,0.597,-3.972,0.897,0.0,0.276,0.892,0.121,167.928,25
+2hoztTOWmnKvzdL3rpNyYZ,Raha lasseka,Cheb Mourad,488040,0.733,-6.005,0.825,0.000129,0.112,0.933,0.035,91.92,23
+14QPtkWgsjBqT73Jh6Tqpn,Baslahi Drabtini,Cheb Djalil,274048,0.349,-6.174,0.891,1.34e-05,0.229,0.819,0.0947,92.75,23
+5ctSjsFDK4qFuBsBTs6Tw8,Hanout F centre ville - Live,Cheb Mourad,399986,0.623,-5.963,0.913,0.00123,0.386,0.963,0.0413,93.872,23
+1LlQmWiqXQqBsRhnnxRtV7,Reservite Ana l'avion,Cheba Dalila,243840,0.622,-4.632,0.893,0.0,0.367,0.87,0.0749,97.376,23
+3WN2ndKoYHd4m9KnZpHZ2N,Andi Ma Khir Menak,Warda,564976,0.672,-5.989,0.915,6.22e-05,0.0901,0.811,0.0886,96.006,23
+7vRsAAgM5QdKeWs7aWZQvO,Manich Délicat,Bilal Sghir,256744,0.515,-7.075,0.887,0.0,0.0906,0.859,0.0425,172.069,22
+2sKYbnTGyz3woxNq6SM9yn,Drahem karoune,Cheb Mourad,442533,0.731,-9.44,0.778,3.92e-06,0.0955,0.853,0.0387,93.956,22
+0KoXiJCNMRUR5md3EJnSs4,Katlouna Bzoom,Warda,335226,0.695,0.255,0.964,0.0,0.0536,0.935,0.0486,93.928,22
+4VK2ds3l1POC0M1wFEiomn,Ana Acheki Liya Wahdi,Warda,398489,0.696,-4.807,0.862,0.0,0.0537,0.577,0.197,94.032,22
+789tcPy9WZx47n5Y1j5ldV,Choufou Rwahkoum Ki Dayrin,Cheba Dalila,366708,0.573,-2.137,0.86,0.0,0.0583,0.632,0.192,93.007,22
+3Lzbvjirzf2Dd0oY0euCqp,Qu'est ce que c'est,Cheb Mourad,392785,0.586,-5.359,0.947,0.0,0.279,0.955,0.0555,93.883,21
+73YTg3LBGpQtej6cu88o4H,Allo finek habibi,Cheb Mourad,333026,0.631,-9.472,0.756,5.42e-05,0.0722,0.703,0.0955,188.009,21
+6UBcbampZS3KWR8CBxWkxU,Tahseb Ghi Howa Bnadem,Cheba Dalila,349457,0.659,-2.949,0.868,0.0,0.194,0.695,0.119,88.062,21
+0E6sEfEI8Z3vgo7Is9MUym,Habibi Chou Ghayarek,Cheb Mourad,432431,0.657,-6.633,0.739,7.2e-05,0.0601,0.674,0.0318,93.989,20
+1prt8VmkvxD9VtnfuPKWSK,3icha Samta Bezaf,Cheb Mourad,278673,0.235,-2.811,0.962,0.0,0.501,0.827,0.268,183.942,19
+3mAmbinHdIGUT6LFr8uC9p,Meriouli,Cheba Dalila,161333,0.599,-5.949,0.898,0.0,0.272,0.699,0.142,97.14,19
+4HvvbAB9gJ4DbvhAaTkoZi,Edenia Tkarik,Cheba Dalila,561894,0.678,-5.178,0.816,0.0,0.335,0.694,0.0531,89.984,18
+7x560Xq3o80uxSeJKbsAWe,Radouli omri,Warda,222563,0.367,-5.695,0.797,0.0,0.0811,0.474,0.413,92.005,18
+7djU7GwzflNZTvWESmTxyJ,Galbi ytgata3,Warda,312085,0.582,-5.536,0.838,2.16e-06,0.069,0.81,0.0695,188.133,18
+5OzBv2BtPChE64ZyxrnvFW,عشقك يقسف,Bilal Sghir,363206,0.465,-7.413,0.765,0.0,0.414,0.796,0.214,74.238,18
+3AV1b8QvgxALSE0TTlshdo,Choufou Rwahkom Ki Dayrin Medahatte,Cheba Dalila,358608,0.681,-5.629,0.807,2.49e-06,0.0785,0.859,0.0615,93.956,16
+3KYoTAbeSphbH6Z3Jja2Wd,Malgré Niya Zina,Cheba Dalila,267656,0.587,-4.753,0.769,0.0,0.0793,0.567,0.213,91.925,15
+1MU9cGJPkf8Z3A42HHKfR2,Yi Yi Yi,Cheba Dalila,451604,0.469,-4.617,0.837,0.0,0.362,0.762,0.0498,96.206,15
