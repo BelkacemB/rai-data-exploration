@@ -1,52 +1,30 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import itertools
-import requests
-import json
-import urllib.parse
 import pandas as pd 
 import numpy as np
+import urllib.parse
+import requests
+import json
 
 NO_RESULT = "No results for "
-
-LAST_FM_API_KEY = "72ec1b403f216a7dc7c2cd22bd1dcf51"
-
-def get_last_fm_plays(artist, song):
-    
-    url = "http://ws.audioscrobbler.com/2.0/?method=track.getInfo&api_key=" + LAST_FM_API_KEY + "&artist="+urllib.parse.quote(artist) + "&track=" + urllib.parse.quote(song) + "&format=json"
-
-    response = requests.get(url)
-    dict_response = json.loads(response.text)
-    playcount, listeners = 0, 0
-
-    try: 
-        playcount, listeners = int(dict_response['track']['playcount']), int(dict_response['track']['listeners'])
-    except KeyError: 
-        print("Track not found on Last FM.")
-
-    return playcount, listeners
-
+# Do not forget so space out the requests
 spotify = spotipy.Spotify(
     client_credentials_manager=SpotifyClientCredentials())
 
 # 1 - Build a population of artists
 
 artist_map = {
-    "28ztjHIXceRRntmTUfnmUX": "Khaled",
-    "11E9GHIAzJRKuECEUSEuqh": "Cheb Bello",  
-    "3e3cKwH1kUr02bvIm7VaIe": "Kader Japonais",
-    "5CZ5sGdn0X47HhndSYKqdz": "Cheba Dalila",
-    "0c3dDCJfxcT4lYNugbKvJt": "Warda",
-    "4iCrZzxACYPYcoS71DgjWW": "Bilal Sghir",
-    "59N7N5tX53jyPhAmsRi4or": "Cheb Bilal",
-    "4ZzMtjQsjtaAOm3GPqmjeQ" : "Cheb Djalil",
-    "4l3uOQQa1NaZz7OVNAjbC2": "Cheb Houssem",
-    "2zjXHi6RZyaS2t0P1BrxBs": "Cheb Mourad",
-    "6AqjzYRx9TeJDzKhkSSHFx": "Cheb Hasni",
-    "6vZXamchcIOKzC1c3Elp4J": "Cheb Mami", 
-    "364dHqe2BwXqmOhgdBXpw8": "Cheikha Rimitti"
+    "49uZa5QPkhpwmHXs2LVtBi": "Cheikh el Hasnaoui",
+    "0WtlXlCzfp2mJyINCsf1tb": "Dahmane El Harrachi",  
+    "4sgdpsrVemff9aGDauF4J4": "El Hachemi Guerouabi",
+    "2tCdo4TZ9Fz8eidDpdhlBl": "Amar Ezzahi",
+    "7yLOExurLKWUlj520esuAt": "Kamel Messaoudi",
+    "7qTOODbVqiOKADjo82VHAw": "Abdelkader Chaou",
+    "5r8pbzFmhj7W5GVntzws4g": "Naima Dziria"
 }
 
+# 1.5 - Get basic artist info (Monthly listeners for instance)
 # 1.5 - Get basic artist info (Monthly listeners for instance)
 selected_artists = spotify.artists(artist_map.keys()).get("artists")
 
@@ -86,10 +64,6 @@ for artist_id in artist_map.keys():
             track_and_artist = (track["name"] + " " + artist_name)
             track["youtube_views"] = get_youtube_views(track_and_artist)
             print(track_and_artist + " - Youtube views: " + str(track["youtube_views"]) )
-            playcount, listeners = get_last_fm_plays(artist=artist_name, song=track["name"])
-            track["last_fm_playcount"] = playcount
-            track["last_fm_listeners"] = listeners
-            print(track_and_artist + " - Last FM playcount: " + str(playcount) ) 
             all_tracks.append(track)
 
 # 3 - Get maximum track features
@@ -115,7 +89,7 @@ af = pd.DataFrame(audio_features)
 tt = pd.DataFrame(all_tracks)
 
 df = pd.merge(tt, af, how="left", on="id")
-df = df[['id', 'name', 'main_artist', 'key', 'mode', 'time_signature', 'duration_ms_x', 'danceability', 'loudness', 'energy', 'instrumentalness', 'liveness', 'valence', 'speechiness', 'tempo','popularity','youtube_views','last_fm_playcount','last_fm_listeners']]
+df = df[['id', 'name', 'main_artist', 'key', 'mode', 'time_signature', 'duration_ms_x', 'danceability', 'loudness', 'energy', 'instrumentalness', 'liveness', 'valence', 'speechiness', 'tempo','popularity','youtube_views']]
 df = df.sort_values(by=['popularity'], ascending=False)
 
-df.to_csv("rai.csv", index=False)
+df.to_csv("chaabi.csv", index=False)

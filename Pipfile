@@ -5,6 +5,14 @@ name = "pypi"
 
 [packages]
 spotipy = "*"
+ipykernel = "*"
+pandas = "*"
+numpy = "*"
+seaborn = "*"
+matplotlib = "*"
+requests = "*"
+scikit-learn = "*"
+pydot = "*"
 
 [dev-packages]
 
