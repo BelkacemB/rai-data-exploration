@@ -30,14 +30,14 @@ spotify = spotipy.Spotify(
     client_credentials_manager=SpotifyClientCredentials())
 
 # 1 - Build a population of artists
-# https://open.spotify.com/artist/4sgdpsrVemff9aGDauF4J4?si=hTJ5ikEyTyiXniVESNkYwg&dl_branch=1
-# https://open.spotify.com/artist/2tCdo4TZ9Fz8eidDpdhlBl?si=spBIUPj-RtGBlo_MjKRpZQ&dl_branch=1
+# https://open.spotify.com/artist/7qTOODbVqiOKADjo82VHAw?si=8ZW5wZD3SFm9nz_YZDJ2YQ&dl_branch=1
 artist_map = {
     "7yLOExurLKWUlj520esuAt": "Kamel Messaoudi",
     "73LjFn4z6WTV7MevyPxrRc": "Idir",  
     "2aVPTWc4WYc7b384eatevF": "Didine Canon 16",
     "4sgdpsrVemff9aGDauF4J4": "El Hachemi Guerouabi",
-    "2tCdo4TZ9Fz8eidDpdhlBl": "Amar Ezzahi"
+    "2tCdo4TZ9Fz8eidDpdhlBl": "Amar Ezzahi",
+    "7qTOODbVqiOKADjo82VHAw": "Abdelkader Chaou"
 }
 
 # 1.5 - Get basic artist info (Monthly listeners for instance)
